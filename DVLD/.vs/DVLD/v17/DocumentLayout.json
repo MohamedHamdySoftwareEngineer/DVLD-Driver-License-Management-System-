@@ -1,0 +1,1115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\mega store\\documents\\visual studio 2022\\myprojects\\c\u002B\u002B hadod\\19 - full project in c#\\dvld solution\\project\\dvld\\applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\local driving license\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\local driving license\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\frmlistlocaldrivinglicesnseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_dataaccess\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\local driving license\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\controls\\ctrlsecheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\controls\\ctrlsecheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\controls\\ctrlsecheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\controls\\ctrlsecheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clstestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clstesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_dataaccess\\clslocaldrivinglicenseapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clslocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\controls\\crlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clsapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clslicenseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\local driving license\\frmaddupdatelocaldrivinglicesnseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clslicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_dataaccess\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clsinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_dataaccess\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\test types\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\test types\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_dataaccess\\clstesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\tests\\test types\\frmlisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:tests\\test types\\frmlisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_dataaccess\\applicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:applications\\application types\\frmeditapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmaddupdateuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmaddupdateuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\dvld_buisness\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmListTestAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmListTestAppointments.cs",
+              "RelativeDocumentMoniker": "Tests\\frmListTestAppointments.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmListTestAppointments.cs",
+              "RelativeToolTip": "Tests\\frmListTestAppointments.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-02T06:49:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmListTestAppointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmListTestAppointments.cs",
+              "RelativeDocumentMoniker": "Tests\\frmListTestAppointments.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmListTestAppointments.cs [Design]",
+              "RelativeToolTip": "Tests\\frmListTestAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-26T19:41:39.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlApplicationBasicInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Controls\\ctrlApplicationBasicInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\Controls\\ctrlApplicationBasicInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-29T06:52:19.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ctrlDrivingLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-12-29T06:52:30.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ctrlApplicationBasicInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "RelativeToolTip": "Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T04:16:27.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlDrivingLicenseApplicationInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs",
+              "RelativeToolTip": "Applications\\Local Driving License\\ctrlDrivingLicenseApplicationInfo.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-02T18:15:50.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListLocalDrivingLicesnseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "RelativeToolTip": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAqwOkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-30T05:32:53.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmListLocalDrivingLicesnseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs [Design]",
+              "RelativeToolTip": "Applications\\Local Driving License\\frmListLocalDrivingLicesnseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-29T07:49:17.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsApplication.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsApplication.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T03:59:59.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsApplication.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsApplication.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwHUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T03:50:42.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmLocalDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmLocalDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\Local Driving License\\frmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-29T07:49:20.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsTest.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsTest.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsTest.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T04:52:25.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmTakeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTakeTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmTakeTest.cs",
+              "RelativeToolTip": "Tests\\frmTakeTest.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwD0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-09T04:47:22.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTakeTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTakeTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmTakeTest.cs [Design]",
+              "RelativeToolTip": "Tests\\frmTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-26T19:41:32.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsTestType.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsTestType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsTestType.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsTestType.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsTestType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T20:15:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsLocalDrivingLicenseApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAAADkBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:11:40.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ctrlSecheduledTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\ctrlSecheduledTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\ctrlSecheduledTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\ctrlSecheduledTest.cs [Design]",
+              "RelativeToolTip": "Tests\\Controls\\ctrlSecheduledTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-09T04:48:59.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ctrlSecheduledTest.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\ctrlSecheduledTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\ctrlSecheduledTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\ctrlSecheduledTest.cs",
+              "RelativeToolTip": "Tests\\Controls\\ctrlSecheduledTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwEcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-09T05:00:18.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsTestAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsTestAppointment.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsTestAppointment.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsTestAppointment.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsTestAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T18:55:51.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAqwMIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:11:51.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmScheduleTest.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmScheduleTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmScheduleTest.cs",
+              "RelativeToolTip": "Tests\\frmScheduleTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T03:45:27.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "crlScheduleTest.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\crlScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\crlScheduleTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\crlScheduleTest.cs",
+              "RelativeToolTip": "Tests\\Controls\\crlScheduleTest.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAiwPUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-06T03:50:39.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "crlScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\crlScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\crlScheduleTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Controls\\crlScheduleTest.cs [Design]",
+              "RelativeToolTip": "Tests\\Controls\\crlScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-02-05T18:57:30.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmScheduleTest.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\frmScheduleTest.cs [Design]",
+              "RelativeToolTip": "Tests\\frmScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-26T19:41:37.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsApplicationType.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsApplicationType.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsApplicationType.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T04:07:58.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "RelativeToolTip": "Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwK0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-31T06:00:32.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmAddUpdateLocalDrivingLicesnseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\Local Driving License\\frmAddUpdateLocalDrivingLicesnseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-31T06:03:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsLicenseClass.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsLicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLicenseClass.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsLicenseClass.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLicenseClass.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T08:27:53.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLicense.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsLicense.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLicense.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAgwKQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:11:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T07:32:04.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmShowPersonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "People\\frmShowPersonInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmShowPersonInfo.cs",
+              "RelativeToolTip": "People\\frmShowPersonInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T04:57:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "People\\frmAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-16T20:04:36.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmShowPersonInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "People\\frmShowPersonInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmShowPersonInfo.cs [Design]",
+              "RelativeToolTip": "People\\frmShowPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T04:56:46.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmAddUpdatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmAddUpdatePerson.cs",
+              "RelativeToolTip": "People\\frmAddUpdatePerson.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAQBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-16T20:06:37.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmFindPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmFindPerson.cs",
+              "RelativeToolTip": "People\\frmFindPerson.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T05:05:49.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmFindPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmFindPerson.cs [Design]",
+              "RelativeToolTip": "People\\frmFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T05:05:12.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmListPeople.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "People\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmListPeople.cs [Design]",
+              "RelativeToolTip": "People\\frmListPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-14T05:42:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmListPeople.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "People\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\frmListPeople.cs",
+              "RelativeToolTip": "People\\frmListPeople.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-14T05:42:35.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmListApplicationTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmListApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs",
+              "RelativeToolTip": "Applications\\Application Types\\frmListApplicationTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-23T03:52:16.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmListApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmListApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmListApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Applications\\Application Types\\frmListApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-23T03:27:11.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "User\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmListUsers.cs",
+              "RelativeToolTip": "User\\frmListUsers.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAAAM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-12T04:47:29.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "User\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "User\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T18:37:46.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsDriver.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDriver.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsDriver.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:11:35.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "clsInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsInternationalLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsInternationalLicense.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsInternationalLicense.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsInternationalLicense.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:11:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDetainedLicense.cs",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:11:16.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-12-11T05:06:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsPerson.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsPerson.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAAALUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T14:02:48.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ctrlUserCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "User\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\ctrlUserCard.cs [Design]",
+              "RelativeToolTip": "User\\ctrlUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-12-11T05:47:31.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmEditTestType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Test Types\\frmEditTestType.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Types\\frmEditTestType.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Test Types\\frmEditTestType.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Types\\frmEditTestType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-26T19:41:50.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmListTestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Test Types\\frmListTestTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Types\\frmListTestTypes.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Tests\\Test Types\\frmListTestTypes.cs",
+              "RelativeToolTip": "Tests\\Test Types\\frmListTestTypes.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-26T20:15:05.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "clsTestType.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsTestType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsTestType.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsTestType.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsTestType.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T14:31:28.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmEditApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeToolTip": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-24T19:02:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\ApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\ApplicationType.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\ApplicationType.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\ApplicationType.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAJsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T04:00:27.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmEditApplicationType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs",
+              "RelativeDocumentMoniker": "Applications\\Application Types\\frmEditApplicationType.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Applications\\Application Types\\frmEditApplicationType.cs [Design]",
+              "RelativeToolTip": "Applications\\Application Types\\frmEditApplicationType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-23T03:27:13.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ctrlPersonCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-12-11T05:06:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Global Classes\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Global Classes\\clsGlobal.cs",
+              "RelativeToolTip": "Global Classes\\clsGlobal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T07:33:29.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmAddUpdateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "User\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmAddUpdateUser.cs [Design]",
+              "RelativeToolTip": "User\\frmAddUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-15T04:50:30.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmAddUpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "User\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmAddUpdateUser.cs",
+              "RelativeToolTip": "User\\frmAddUpdateUser.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-14T05:47:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "User\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T08:11:05.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAApwDsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-18T09:17:45.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-12-10T14:20:31.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T04:51:06.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwH8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-12-10T14:20:32.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-18T09:16:50.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsUser.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_Buisness\\clsUser.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsUser.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAApwJkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T05:49:21.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAApwJwBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T14:10:43.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmAddUpdateUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmAddUpdateUser.Designer.cs",
+              "RelativeDocumentMoniker": "User\\frmAddUpdateUser.Designer.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmAddUpdateUser.Designer.cs",
+              "RelativeToolTip": "User\\frmAddUpdateUser.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAApwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-16T06:43:07.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "User\\frmUserInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmUserInfo.cs [Design]",
+              "RelativeToolTip": "User\\frmUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-10T14:20:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmChangePassword.cs",
+              "RelativeToolTip": "User\\frmChangePassword.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAHkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-11T08:21:10.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ctrlUserCard.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "User\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\ctrlUserCard.cs",
+              "RelativeToolTip": "User\\ctrlUserCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-12-11T05:45:49.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "User\\frmUserInfo.cs",
+              "ToolTip": "C:\\Users\\Mega Store\\Documents\\Visual Studio 2022\\MyProjects\\C\u002B\u002B Hadod\\19 - Full Project in C#\\DVLD Solution\\Project\\DVLD\\User\\frmUserInfo.cs",
+              "RelativeToolTip": "User\\frmUserInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-10T14:20:21.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
